@@ -15,3 +15,10 @@ console.log(getElementWidth("200px", "0px", "0px")); // 200
 
 console.log("JavaScript is awesome!");
 console.log(10);
+
+
+
+
+
+
+
